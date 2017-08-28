@@ -1,0 +1,6 @@
+c:\users\steevie-marvel\documents\visual studio 2015\Projects\StackImplementation\StackImplementation\bin\Debug\StackImplementation.exe.config
+c:\users\steevie-marvel\documents\visual studio 2015\Projects\StackImplementation\StackImplementation\bin\Debug\StackImplementation.exe
+c:\users\steevie-marvel\documents\visual studio 2015\Projects\StackImplementation\StackImplementation\bin\Debug\StackImplementation.pdb
+c:\users\steevie-marvel\documents\visual studio 2015\Projects\StackImplementation\StackImplementation\obj\Debug\StackImplementation.csprojResolveAssemblyReference.cache
+c:\users\steevie-marvel\documents\visual studio 2015\Projects\StackImplementation\StackImplementation\obj\Debug\StackImplementation.exe
+c:\users\steevie-marvel\documents\visual studio 2015\Projects\StackImplementation\StackImplementation\obj\Debug\StackImplementation.pdb

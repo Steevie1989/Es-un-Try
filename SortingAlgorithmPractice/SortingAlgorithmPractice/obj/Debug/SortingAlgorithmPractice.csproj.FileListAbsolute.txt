@@ -1,0 +1,6 @@
+c:\users\steevie-marvel\documents\visual studio 2015\Projects\SortingAlgorithmPractice\SortingAlgorithmPractice\bin\Debug\SortingAlgorithmPractice.exe.config
+c:\users\steevie-marvel\documents\visual studio 2015\Projects\SortingAlgorithmPractice\SortingAlgorithmPractice\bin\Debug\SortingAlgorithmPractice.exe
+c:\users\steevie-marvel\documents\visual studio 2015\Projects\SortingAlgorithmPractice\SortingAlgorithmPractice\bin\Debug\SortingAlgorithmPractice.pdb
+c:\users\steevie-marvel\documents\visual studio 2015\Projects\SortingAlgorithmPractice\SortingAlgorithmPractice\obj\Debug\SortingAlgorithmPractice.csprojResolveAssemblyReference.cache
+c:\users\steevie-marvel\documents\visual studio 2015\Projects\SortingAlgorithmPractice\SortingAlgorithmPractice\obj\Debug\SortingAlgorithmPractice.exe
+c:\users\steevie-marvel\documents\visual studio 2015\Projects\SortingAlgorithmPractice\SortingAlgorithmPractice\obj\Debug\SortingAlgorithmPractice.pdb

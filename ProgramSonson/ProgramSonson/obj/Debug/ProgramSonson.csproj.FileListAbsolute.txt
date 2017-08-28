@@ -1,0 +1,6 @@
+c:\users\steevie-marvel\documents\visual studio 2015\Projects\ProgramSonson\ProgramSonson\bin\Debug\ProgramSonson.exe.config
+c:\users\steevie-marvel\documents\visual studio 2015\Projects\ProgramSonson\ProgramSonson\bin\Debug\ProgramSonson.exe
+c:\users\steevie-marvel\documents\visual studio 2015\Projects\ProgramSonson\ProgramSonson\bin\Debug\ProgramSonson.pdb
+c:\users\steevie-marvel\documents\visual studio 2015\Projects\ProgramSonson\ProgramSonson\obj\Debug\ProgramSonson.csprojResolveAssemblyReference.cache
+c:\users\steevie-marvel\documents\visual studio 2015\Projects\ProgramSonson\ProgramSonson\obj\Debug\ProgramSonson.exe
+c:\users\steevie-marvel\documents\visual studio 2015\Projects\ProgramSonson\ProgramSonson\obj\Debug\ProgramSonson.pdb
